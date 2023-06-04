@@ -1,1 +1,1 @@
-# BERT_fine_tuning for binary legal text classification.
+# BERT fine tuning for binary legal text classification.
